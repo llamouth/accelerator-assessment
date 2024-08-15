@@ -55,6 +55,7 @@ body {
   flex-direction: column;
   box-shadow: -10px 10px black;
   gap: 5px;
+  border: 1px solid;
 }
 
 .anime-main {
